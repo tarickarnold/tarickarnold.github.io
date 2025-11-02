@@ -4,7 +4,7 @@ title: How to setup Ring-MQTT in UnRaid and Home Assistant
 date: 2025-11-02 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img-folder: ringmqtt
-img: ringmqtt.jpg # Add image post (optional)
+img: ringmqtt.png # Add image post (optional)
 tags: [Automation, Self-Host, Ring, MQTT] # add tag
 ---
 
