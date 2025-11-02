@@ -11,11 +11,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Tarick Arnold # add your name
 author-img: tarick-arnold.jpg # add your photo
-about-author: I am an Automation Developer. # add description
+about-author: Automation Developer, Self-Hoster, Cat Dad. # add description
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: tarickarnold # add your Github handle
-social-linkedin: # add your Linkedin handle
+social-linkedin: https://www.linkedin.com/in/tarick-arnold-81279725/ # add your Linkedin handle
 social-email: h3ofpu9z@anonaddy.me # add your Email address
 
 # Disqus
